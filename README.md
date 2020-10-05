@@ -1,10 +1,15 @@
-# Dillinger
+# VS Buy Scraper
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
+Welcome to v0.1 of VS Buy scraper!
+
 The VS Buy Scraper navegates on Amazon, Mercado Libre, eBay and Best Buy, searching for the most relevant and cheap product that every page can offers. 
+
+If you want to check all the commits or just to use one of the pages, you could check the first steps of Vs Buy here:
+https://github.com/Edward-TL/VS_Buy-First-Steps
 
 # Features:
 
